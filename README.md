@@ -1,4 +1,4 @@
-# remoterocketship-com
+# Remote Rocketship
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-remoterocketship-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://remoterocketship.com/
+Remote Rocketship is a job board that aggregates remote job listings from over 100,000 company career pages, providing early access to positions not found on major job sites. Founded in 2022 by Lior Neu-ner, it scans and updates thousands of remote opportunities daily, offering a free, ad‑free experience without charging employers. The service emphasizes direct applications, data privacy, and community feedback, aiming to help job seekers find remote work faster and more reliably.
+
+**Areas:** Company · Remote Jobs · Job Board · Aggregator · Career Search
+
+## Remote Rocketship on APIs.io
+
+Everything profiled for Remote Rocketship is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/remoterocketship-com/](https://apis.io/providers/remoterocketship-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Remote Rocketship Openclaw API](https://apis.io/apis/remoterocketship-com/remoterocketship-com-openclaw-api/) — The Openclaw API from Remote Rocketship — 2 operation(s) for openclaw.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Remote Rocketship Agentic Access](https://apis.io/agentic-access/remoterocketship-com/remoterocketship-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [SearchRequest](https://apis.io/schemas/remoterocketship-com/remoterocketship-com-search-request/)
+- [SearchResponse](https://apis.io/schemas/remoterocketship-com/remoterocketship-com-search-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Remoterocketship Com Context](https://apis.io/jsonld/remoterocketship-com/remoterocketship-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Remote Rocketship API Rules](https://apis.io/rules/remoterocketship-com/remoterocketship-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Remote Rocketship Authentication](https://apis.io/security/remoterocketship-com/remoterocketship-com-authentication/)
+- [Remote Rocketship Domain Security](https://apis.io/security/remoterocketship-com/remoterocketship-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Remote Rocketship Plans Pricing](https://apis.io/plans/remoterocketship-com/remoterocketship-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://remoterocketship.com/)
+- [Documentation](https://www.remoterocketship.com/api-docs/)
+- [API reference](https://www.remoterocketship.com/openapi.json)
+- [Pricing](https://www.remoterocketship.com/pricing/)
+- [Support](https://www.remoterocketship.com/help/)
+- [Terms of service](https://www.remoterocketship.com/terms/)
+- [Privacy policy](https://www.remoterocketship.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 57.5** — strong · rubric 0.27.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 57.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 45.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/remoterocketship-com/](https://apis.io/providers/remoterocketship-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Remote Rocketship: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/remoterocketship-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
